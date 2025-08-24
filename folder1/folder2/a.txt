@@ -1,1 +1,0 @@
-This is the content of a.txt file created via GitHub API
